@@ -52,7 +52,7 @@ The main outcomes are **time to first initiation** for:
 
 ## Citation
 
-If you use or adapt this code, please cite the associated manuscript:
+If you use or adapt this project's ideas and scripts, please cite the associated manuscript:
 
 Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort
 
