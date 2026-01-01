@@ -1,7 +1,7 @@
 # Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth  
 ### A Survival and Causal Modeling Study in the ABCD Cohort
 
-Mengman Wei\*** and Qian Peng\***  
+Mengman Wei\* and Qian Peng\* 
 
 
 ## Overview
@@ -56,5 +56,5 @@ If you use or adapt this project's ideas and scripts, please cite the associated
 
 Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort
 
-Mengman Wei\*** and Qian Peng\***  
+Mengman Wei\* and Qian Peng\* 
 
