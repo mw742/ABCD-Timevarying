@@ -25,21 +25,14 @@ message_ts <- function(...) {
 ## -----------------------------
 
 ## Core age table
-age_file <- "/gpfs/group/ehlers/mwei/Tables/core/abcd-general/abcd_y_lt.csv"
+age_file <- "abcd_y_lt.csv"
 
 ## Core covariates (sex, age, site, PCs)
-covariates_file <- "/gpfs/group/ehlers/mwei/ABCD_2/ABCD/work_provided_assets/covariates_final.tsv"
+covariates_file <- "covariates_final.tsv"
 
 ## survival covariate directories
 surv_dirs <- c(
-  "/gpfs/group/ehlers/mwei/Tables/core/abcd-general/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/culture-environment/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/gender-identity-sexual-health/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/linked-external-data/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/mental-health/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/neurocognition/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/novel-technologies/surv",
-  "/gpfs/group/ehlers/mwei/Tables/core/physical-health/surv"
+"path"
 )
 
 ## Output directory = current directory
