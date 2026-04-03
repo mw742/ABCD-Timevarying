@@ -37,10 +37,10 @@ phen_files <- c(
 )
 
 prs_paths <- list(
-  PAU      = "/gpfs/group/ehlers/mwei/ABCD_2/ABCD/work_provided_assets/GWAS_sud/PRS_scores_PRScsx/PAU_multi_PRS_two_col.tsv",
-  CanUD    = "/gpfs/group/ehlers/mwei/ABCD_2/ABCD/work_provided_assets/GWAS_sud/Levey2023_CanUD/prs_scores_prscsx/CanUD_EURAFR_META_PRS_two_col.tsv",
-  nicotine = "/gpfs/group/ehlers/mwei/ABCD_2/ABCD/work_provided_assets/GWAS_sud1/prs_scores/nicotine_PRS_two_col.tsv",
-  anySUD   = "/gpfs/group/ehlers/mwei/ABCD_2/ABCD/work_provided_assets/GWAS_sud1/prs_scores/anySUD_PRS_two_col.tsv"
+  PAU      = "Path",
+  CanUD    = "Path",
+  nicotine = "Path",
+  anySUD   = "Path"
 )
 
 out_prefix <- "cox_tv_univar"
