@@ -54,7 +54,10 @@ The main outcomes are **time to first initiation** for:
 
 If you use or adapt this project's ideas and scripts, please cite the associated manuscript:
 
-Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort
-
-Mengman Wei\* and Qian Peng\* 
-
+@article{wei2026timevarying,
+  title={Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort},
+  author={Wei, Mengman and Peng, Qian},
+  journal={arXiv preprint arXiv:2604.07368},
+  year={2026},
+  doi={10.48550/arXiv.2604.07368}
+}
